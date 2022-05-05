@@ -80,7 +80,7 @@ In the end, your pass must be able to convert a bytecode like the one on
 the left into something like the bytecode on the right:
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------
-  [![Example before dead-code elimination.](./Project%20assignments_files/originalProg.png){width="300"}](./Project%20assignments_files/originalProg.png)   [![Example after dead-code elimination](./Project%20assignments_files/optimizedProg.png){width="300"}](./Project%20assignments_files/optimizedProg.png)
+  [![Example before dead-code elimination.](./Project%20assignments_files/originalProg.png){width="300"}](<https://homepages.dcc.ufmg.br/~fernando/classes/dcc888/assignment/images/originalProg.png>)   [![Example after dead-code elimination](./Project%20assignments_files/optimizedProg.png){width="300"}](<https://homepages.dcc.ufmg.br/~fernando/classes/dcc888/assignment/images/optimizedProg.png>)
   --------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Feel free to use as much help from LLVM as you want. In particular, you
