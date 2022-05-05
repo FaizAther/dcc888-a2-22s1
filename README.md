@@ -80,9 +80,9 @@ In the end, your pass must be able to convert a bytecode like the one on
 the left into something like the bytecode on the right:
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------
-![Example before dead-code elimination.](https://github.com/FaizAther/dcc888-a2-22s1/raw/main/assets/originalProg.png)
-
-![Example after dead-code elimination](https://github.com/FaizAther/dcc888-a2-22s1/raw/main/assets/optimizedProg.png)
+  ![Example before dead-code elimination.](https://github.com/FaizAther/dcc888-a2-22s1/raw/main/assets/originalProg.png)
+  --------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------- <= Optimized =>
+  ![Example after dead-code elimination](https://github.com/FaizAther/dcc888-a2-22s1/raw/main/assets/optimizedProg.png)
   --------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Feel free to use as much help from LLVM as you want. In particular, you
